@@ -1,14 +1,14 @@
-# DEMO_DASH
-Dashboard demo для RegionConsult
-Программа на базе GUI Dash_board.xlsb, VBA скрипт запускает _main.py
-Требуемые библиотеки:
-  from pprint import pprint
-  import time
-  import re
-  import pandas as pd
-  import sqlite3
-  from openpyxl import load_workbook
-  import xlwings as xw
+# DEMO_DASH<br>
+Dashboard demo для RegionConsult<br>
+Программа на базе GUI Dash_board.xlsb, VBA скрипт запускает _main.py<br>
+Требуемые библиотеки:<br>
+  from pprint import pprint<br>
+  import time<br>
+  import re<br>
+  import pandas as pd<br>
+  import sqlite3<br>
+  from openpyxl import load_workbook<br>
+  import xlwings as xw<br>
 
 Архитектура:
 Папка SRC - в ней хранятся источники
